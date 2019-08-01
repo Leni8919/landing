@@ -1,0 +1,18 @@
+.container {
+  margin: 0 auto;
+  max-width: 700px;
+  position: relative;
+}
+
+.product-section h2 {
+  margin-top: 50px;
+}
+
+.product-section p {
+  text-align: right;
+}
+
+.product-section .btn-yours {
+  position: absolute;
+  right: 0px;
+}

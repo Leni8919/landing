@@ -1,0 +1,29 @@
+.footer {
+  margin-top: 150px;
+  text-align: center;
+  color : grey;
+}
+
+.footer p {
+  font-size: 10px;
+}
+
+.footer a {
+  text-decoration: none;
+  color: grey;
+  transition: background 0.3s ease;
+}
+
+.footer a:hover {
+  color: black;
+}
+
+.list-inline {
+ list-style: none;
+ padding-left: 0px;
+}
+.list-inline > li {
+ display: inline;
+ padding: 0px 20px;
+ font-size: 30px
+}
